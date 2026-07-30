@@ -1,4 +1,3 @@
-BusReservationSystem.java
 import java.util.Scanner;
 
 public class BusReservationSystem {
