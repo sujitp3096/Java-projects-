@@ -9,7 +9,7 @@ import java.util.*;
  *  - View all expenses
  *  - View category-wise totals
  *  - Delete an expense
- *  - Save/Load expenses to/from a file (expenses.txt) so data persists
+ *  - Save/Load expensesto/from a file (expenses.txt) so data persists
  */
 public class ExpenseTracker {
 
