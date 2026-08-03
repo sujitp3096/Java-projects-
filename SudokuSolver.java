@@ -74,6 +74,7 @@ public class SudokuSolver {
         }
         return true; // all cells filled
     }
+    
 
     static boolean isValid(int[][] grid, int row, int col, int num) {
         // Check row
